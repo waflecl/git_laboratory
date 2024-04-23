@@ -1,0 +1,4 @@
+[submodule "protos/service_A"]
+	path = protos/service_A
+	url = git@github.com:penti2s/proto_test.git
+	branch = serviceA_proto
