@@ -2,3 +2,7 @@
 	path = protos/service_A
 	url = git@github.com:penti2s/proto_test.git
 	branch = serviceA_proto
+[submodule "protos/service_B"]
+	path = protos/service_B
+	url = git@github.com:penti2s/proto_test.git
+	branch = serviceB_proto
